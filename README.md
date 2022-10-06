@@ -1,8 +1,14 @@
 # Data-Structures-
-Matrix_Multiplication
-Odd_or_Even
-Factorial_without_using_recursion
-Factorial_using_recursion
-FibinaccieSeries_without_using_recursion
-FibinaccieSeries_using_recursion
-Search_elements_using_linearSearch_method
+Matrix_Multiplication___
+Odd_or_Even___
+Factorial_without_using_recursion___
+Factorial_using_recursion___
+FibinaccieSeries_without_using_recursion___
+FibinaccieSeries_using_recursion___
+Search_elements_using_linearSearch_method___
+Insertion_sort__
+Merge_sort__
+Heap_sort__
+Binary_search_tree__
+Quick_sort__
+Tree_traversal(inorder,preorder,postorder)
